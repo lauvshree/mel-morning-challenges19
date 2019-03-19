@@ -5,7 +5,6 @@
 ```
 .
 ├── README.md
-├── folder_structure.png
 └── term_one
     ├── html_css
     │   ├── 12_03_2019_cant_unsee.md
