@@ -20,8 +20,12 @@
         │   ├── 26_02_19_bill_calculator.rb
         │   ├── 27_02_19_fibonacci.rb
         │   └── 28_02_19_albums_class_challenge.rb
-        └── week_3
-            ├── 04_03_2019_party_parrot_cocktails_v2.rb
-            ├── 05_03_2019_ruby_practice.rb
-            └── 18_03_2019_tinder.rb
+        ├── week_3
+        │   ├── 04_03_2019_party_parrot_cocktails_v2.rb
+        │   ├── 05_03_2019_ruby_practice.rb
+        │   └── 18_03_2019_tinder.rb
+        └── week_6
+            └── 25_03_2019_Ruby_Review
+                ├── README.md
+                └── index.rb
 ```
