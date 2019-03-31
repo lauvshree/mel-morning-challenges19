@@ -18,7 +18,6 @@ class ProductListTest < MiniTest::Test
           :price => '19.99'
       }),
   ])
-
   end
 
   def test_find_by_name
