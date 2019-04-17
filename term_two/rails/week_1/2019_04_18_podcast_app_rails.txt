@@ -22,7 +22,7 @@ generate the episodes controller, make it have the create endpoint
 
 add the index, new, show and edit views, they can be bare bones for now 
 
-the new form is just for adding a podcast channel 
+the new form is just for adding a podcast 
 
 on the podcasts show page add a form that allows you to create a new episode for that specific podcast (the create endpoint for episodes)
 
