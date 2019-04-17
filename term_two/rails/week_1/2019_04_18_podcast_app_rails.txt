@@ -1,16 +1,20 @@
 we're creating a rails podcast app this morning
 
+generate the rails app
+
 a podcast has a name (string), genre (string) and whether it contains explicit_content (boolean) 
 
 a podcast has many episodes
 
 an episode has a title (string), show notes (string) and an mp3_file (string)
 
-generate the rails app
-
-create the models 
+create these models 
 
 run the migrations
+
+whoops 🤪 we forgot about the podcast_id for the episodes model 
+
+run a migration to add the podcast_id column to episodes, use the references:podcast technique to do this, follow this stack overflow comment https://stackoverflow.com/a/22815259
 
 generate the podcasts controller, make it have index, new, create, show, edit, update and delete endpoints
 
