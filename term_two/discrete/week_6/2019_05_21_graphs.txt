@@ -1,0 +1,15 @@
+1. Watch Intro to Graphs
+
+https://www.youtube.com/watch?v=o3_AAYVGfjQ
+
+2.  The Seven Bridges of Konigsberg
+
+https://www.youtube.com/watch?v=W18FDEA1jRQ
+
+3. How the Bridge Problem Changed Mathematics
+
+https://www.youtube.com/watch?v=nZwSo4vfw6c
+
+4. Dijkstra's Algorithm
+
+https://www.youtube.com/watch?v=GazC3A4OQTE
